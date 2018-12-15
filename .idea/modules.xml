@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" filepath="$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" filepath="$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-config-server/springCloud-config-server.iml" filepath="$PROJECT_DIR$/springCloud-config-server/springCloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
     </modules>
