@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class TestConfigController {
 
-    @Value("${profile}")
+    @Value("${hello}")
     private String configValue;
     @RequestMapping("testConfig")
     public String test(){
