@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      name: config-client
+      label: master
+      profiles: dev
+      uri: http://localhost:8766
+
+
+
+
+
+

@@ -1,17 +1,11 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
 server:
   port: 8767
-  hello: 123123
 
 spring:
-  cloud:
-    config:
-      label: master
-      profile: dev
-      uri: http://localhost:8766/
-    application:
-      name: config-client
-
-
-
-
-
+  application:
+    name: config-client
