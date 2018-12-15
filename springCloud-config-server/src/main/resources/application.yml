@@ -11,6 +11,8 @@ spring:
       server:
         git:
           uri: https://github.com/miammm/spring_cloud
-          searchPaths: spring_cloud/helloworldConfig
+          search-paths: helloworldConfig
+          username: 936741678@qq.com
+          password: Wang.5738566
   application:
     name: config-server
