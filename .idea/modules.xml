@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-interface/spring-cloud-interface.iml" filepath="$PROJECT_DIR$/spring-cloud-interface/spring-cloud-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" filepath="$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" filepath="$PROJECT_DIR$/springCloud-config-client/springCloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-config-server/springCloud-config-server.iml" filepath="$PROJECT_DIR$/springCloud-config-server/springCloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
+    </modules>
+  </component>
+</project>
