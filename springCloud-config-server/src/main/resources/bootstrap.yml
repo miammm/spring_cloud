@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      server:
+        active: native
+        git:
+          uri: https://github.com/miammm/spring_cloud
+          search-paths: helloworldConfig
+          username: 936741678@qq.com
+          password: Wang.5738566
